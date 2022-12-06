@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "graphql": "^14.5.8",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "subscriptions-transport-ws": "^0.9.16",
     "graphql-tag": "^2.10.3",
     "react": "^16.10.0",
